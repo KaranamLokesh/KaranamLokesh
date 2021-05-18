@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Hi! I'm Lokesh 👋
 
-- 🔭 I’m currently working on machine learning models for applications of deep structured prediction in bioinformatics and computer vision.
-- 🌱 I’m currently learning about equivariance in attentive neural networks.
-- 💬 Ask me about machine learning, artificial intelligence, music, long-distance running, etc.
+- 🔭 I’m currently working on machine learning models for applications of object detection and recognition..
+- 🌱 I’m currently learning about Natural Language Processing and how to apply it for hate speech detection.
+- 💬 Ask me about Machine Learning, Artificial Intelligence, Music,Maths, etc.
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
 
 [![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=KaranamLokesh)](https://github.com/ryo-ma/github-profile-trophy)

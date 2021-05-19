@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on machine learning models for applications of object detection and recognition..
 - 🌱 I’m currently learning about Natural Language Processing and how to apply it for hate speech detection.
-- 💬 Ask me about Machine Learning, Artificial Intelligence, Music,Maths, etc.
+- 💬 Ask me about Machine Learning, Artificial Intelligence, Music, Maths, etc.
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
 
 [![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=KaranamLokesh)](https://github.com/ryo-ma/github-profile-trophy)
